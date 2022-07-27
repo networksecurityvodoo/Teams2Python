@@ -1,7 +1,10 @@
 # Teams2Python
-Integration Micosoft Teams with 3rd Party via Python
+Integration of  Micosoft Teams with a 3rd Party via Python
 
-Testing
+
+
+How-To use:
+
 1. Open up a Microsoft 365 Developer Account
     under https://developer.microsoft.com/de-DE/microsoft-365/dev-program
 2. Open Microsoft Teams Client
@@ -17,3 +20,5 @@ https://poszytek.eu/en/microsoft-en/microsoft-message-cards-the-ultimate-guide/
 
 Testing the format of the Message Cards in MS Teams prior to sending it:
 https://messagecardplayground.azurewebsites.net/
+
+Official Documentation: https://docs.microsoft.com/en-us/outlook/actionable-messages/message-card-reference
