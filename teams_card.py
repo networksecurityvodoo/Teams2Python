@@ -1,3 +1,9 @@
+"""
+This Python file is a example for sending a "Message Card" 
+into a Microsoft Teams Channel.
+For more information refer to: https://docs.microsoft.com/en-us/outlook/actionable-messages/message-card-reference
+"""
+
 import requests
 import json
 
